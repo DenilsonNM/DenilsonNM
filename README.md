@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 ### Stats
 ![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=denilsonnm&show_icons=true&theme=radical)
 
+### Streak
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=denilsonnm&theme=highcontrast&hide_border=true)
+
 ### Views
 ![Visitor Count](https://profile-counter.glitch.me/denilsonnm/count.svg)
 
