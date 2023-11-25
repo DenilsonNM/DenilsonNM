@@ -13,8 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-**Languages and Tools:**  
+--> 
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonnm&layout=compact)](https://github.com/denilsonnm/github-readme-stats)
+
+### Stats
+![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=denilsonnm&show_icons=true&theme=radical)
+
+### Views
+![Visitor Count](https://profile-counter.glitch.me/denilsonnm/count.svg)
+
