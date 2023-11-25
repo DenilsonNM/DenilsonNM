@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=denilsonnm&theme=transparent)
 
 ### Trophies
-![](https://github-profile-trophy.vercel.app/?username=denilsonnm&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=denilsonnm&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
 
 ### Views
 ![Visitor Count](https://profile-counter.glitch.me/denilsonnm/count.svg)
