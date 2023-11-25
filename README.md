@@ -15,14 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 ### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonnm&layout=compact)](https://github.com/denilsonnm/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonnm&layout=compact&theme=transparent)](https://github.com/denilsonnm/github-readme-stats&theme=transparent)
+--> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonnm&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
 
 ### Stats
-![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=denilsonnm&show_icons=true&theme=radical)
+![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=denilsonnm&show_icons=true&theme=transparent&rank_icon=github)
 
 ### Streak
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=denilsonnm&theme=highcontrast&hide_border=true)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=denilsonnm&theme=transparent)
+
+### Trophies
+![](https://github-profile-trophy.vercel.app/?username=denilsonnm&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 ### Views
 ![Visitor Count](https://profile-counter.glitch.me/denilsonnm/count.svg)
