@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-### Top Languages 🛠
+### Work 🛠
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonnm&layout=compact&theme=transparent)](https://github.com/denilsonnm/github-readme-stats&theme=transparent)
 --> 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Stats 🥇
 ![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=denilsonnm&show_icons=true&theme=transparent&rank_icon=github)
 
-### Streak ✨
+### Streak ⚡
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=denilsonnm&theme=transparent)
 
 ### Trophies 🏆
